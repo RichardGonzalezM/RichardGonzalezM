@@ -3,6 +3,7 @@
 
 - 📫 How to reach me: **julgonzalmu@unal.edu.co**
 - 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/12tdSA8-rcDtUpcVGsP2hRnp370OEzB0D/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
+- 🔭 I’m currently working on doing my first [blog](https://richardgonzalezm.github.io/richardsblog.github.io/).
 ## My Statistics
 
 <br/>
@@ -17,7 +18,7 @@
 --------
 Credit: [Richard Gonzalez](https://github.com/RichardGonzalez)
 
-Last Edited on: 19/04/2024
+Last Edited on: 20/04/2024
 <!--
 **RichardGonzalezM/RichardGonzalezM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
