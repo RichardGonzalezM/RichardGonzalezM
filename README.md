@@ -13,9 +13,11 @@
   </a>
 </p>
 <br>
-<br/>
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-<br/>
+
+--------
+Credit: [Richard Gonzalez](https://github.com/RichardGonzalez)
+
+Last Edited on: 19/04/2024
 <!--
 **RichardGonzalezM/RichardGonzalezM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
